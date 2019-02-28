@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - pandas
+  - fiona
+  - pysal
+  - geopandas
+  - folium
+  - seaborn
+  - scikit-learn
