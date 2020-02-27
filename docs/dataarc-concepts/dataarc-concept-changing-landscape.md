@@ -1,8 +1,3 @@
----
-layout: page
-title: "the changing landscape"
-permalink: https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-changing-landscape/
----
 
 ## The Changing Landscape
 
