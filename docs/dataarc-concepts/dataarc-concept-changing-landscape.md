@@ -1,20 +1,22 @@
+---
 layout: page
 title: "the changing landscape"
 permalink: https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-changing-landscape/
+---
 
 ## The Changing Landscape
 
 
 ###  Subclass of: none
 ###  Superclass of:
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-activities 
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-actors
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-community-places
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-events
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-ideas
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-imaginary-landscape
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-landscape
-* https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-processes
+* [activities](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-activities) 
+* [actors](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-actors)
+* [community places](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-community-places)
+* [events](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-events)
+* [ideas](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-ideas)
+* [imaginary landscape](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-imaginary-landscape)
+* [physical landscape](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-landscape)
+* [physical processes](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-processes)
 
 ###  Scope note: The dataarc community investigates long-term human-environment dynamics. "The changing landscape" is the overarching high-level concept which encompasses the project's research domain. 
 
@@ -28,17 +30,17 @@ permalink: https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept
 
 ### Properties:
 
-* [Refers to (is referred to by)][http://www.cidoc-crm.org/Property/p67-refers-to/version-6.2.1]
- https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-landscape
+* [ P67 Refers to (is referred to by)](http://www.cidoc-crm.org/Property/p67-refers-to/version-6.2.1)
+ [physical landscape] (https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-landscape)
  
-* [Refers to (is referred to by)][http://www.cidoc-crm.org/Property/p67-refers-to/version-6.2.1]
- https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-time
+* [P67 Refers to (is referred to by)](http://www.cidoc-crm.org/Property/p67-refers-to/version-6.2.1)
+ [time](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-time)
 
 ### CIDOC CRM mappings: 
 
-* http://www.cidoc-crm.org/Entity/E89-Propositional-Object/Version-6.2.1
-* http://www.cidoc-crm.org/Entity/E92_Spacetime_Volume/Version-6.2.1
-* http://www.cidoc-crm.org/Entity/E28_Conceptual_Object/Version-6.2.1
+* [E89](http://www.cidoc-crm.org/Entity/E89-Propositional-Object/Version-6.2.1)
+* [E92](http://www.cidoc-crm.org/Entity/E92_Spacetime_Volume/Version-6.2.1)
+* [E28](http://www.cidoc-crm.org/Entity/E28_Conceptual_Object/Version-6.2.1)
 
 
 ### Inherits references:
