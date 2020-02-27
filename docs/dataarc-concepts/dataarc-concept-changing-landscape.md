@@ -34,8 +34,8 @@
 ### CIDOC CRM mappings: 
 
 * [E89](http://www.cidoc-crm.org/Entity/E89-Propositional-Object/Version-6.2.1)
-* [E92](http://www.cidoc-crm.org/Entity/E92_Spacetime_Volume/Version-6.2.1)
-* [E28](http://www.cidoc-crm.org/Entity/E28_Conceptual_Object/Version-6.2.1)
+* [E92](http://www.cidoc-crm.org/Entity/E92-Spacetime-Volume/Version-6.2.1)
+* [E28](http://www.cidoc-crm.org/Entity/E28-Conceptual-Object/Version-6.2.1)
 
 
 ### Inherits references:
