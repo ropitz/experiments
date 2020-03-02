@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"1",
@@ -49,7 +49,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"2",
@@ -93,7 +93,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"3",
@@ -181,7 +181,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"5",
@@ -225,7 +225,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"6",
@@ -269,7 +269,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"7",
@@ -313,7 +313,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"8",
@@ -357,7 +357,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"9",
@@ -401,7 +401,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"10",
@@ -8438,10 +8438,10 @@
     "L":null,
     "H/W":"",
     "T/D":"",
-    "description":"flat bones, long bone large whale",
+    "description":"flat bones; long bone large whale",
     "Notes":"",
     "Vicki's Notes BR":"",
-    "Claire's Notes":"ribs, possible marks on edges but most likely natural breakage",
+    "Claire's Notes":"ribs - possible marks on edges but most likely natural breakage",
     "Photos taken":"",
     "bone label":"",
     "dimensions":"big: 9.6 x 3.1 x 1.3 small: 6.5 x 2.7 x 0.9",
@@ -8573,7 +8573,7 @@
     "description":"howe box 10",
     "Notes":"",
     "Vicki's Notes BR":"",
-    "Claire's Notes":"process and part of vert body, full fused epiphysis but still rather small, chop on end of process",
+    "Claire's Notes":"process and part of vert body; full fused epiphysis but still rather small; chop on end of process",
     "Photos taken":"",
     "bone label":"",
     "dimensions":"10.4 x 5 x 4.5",
@@ -9057,7 +9057,7 @@
     "description":"bone",
     "Notes":"",
     "Vicki's Notes BR":"",
-    "Claire's Notes":"2 pieces articulate together to form a long tool, one smoothed side, almost all trabecular bone (trabeculae seem more riblike than vert), no other marks NEW: ",
+    "Claire's Notes":"2 pieces articulate together to form a long tool; one smoothed side; almost all trabecular bone (trabeculae seem more riblike than vert); no other marks NEW: ",
     "Photos taken":"Yes",
     "bone label":"",
     "dimensions":"Together: 18.7 x 6.4 x 3.6",
@@ -9101,7 +9101,7 @@
     "description":"",
     "Notes":"",
     "Vicki's Notes BR":"",
-    "Claire's Notes":"vert vessel walls, some cortical still present but cannot tell which vert, smoothing on top and bottom so it seems open, was there another purpose?",
+    "Claire's Notes":"vert vessel walls; some cortical still present but cannot tell which vert; smoothing on top and bottom so it seems open; was there another purpose?",
     "Photos taken":"Yes",
     "bone label":"",
     "dimensions":"Together: 10.4 x 8.9 x 1.6",
@@ -9145,7 +9145,7 @@
     "description":"",
     "Notes":"",
     "Vicki's Notes BR":"",
-    "Claire's Notes":"burned, unclear but could be wall of vert vessel, burning and calcination, smoothing on one side, no other marks",
+    "Claire's Notes":"burned; unclear but could be wall of vert vessel; burning and calcination; smoothing on one side; no other marks",
     "Photos taken":"Yes",
     "bone label":"",
     "dimensions":"3.3 x 3.3 x 1.4",
@@ -21961,7 +21961,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -3.317222,59.127500 ]
+       "coordinates":  [ -3.317222,59.1275 ]
     },
     "properties": {
     "ID Number":"",
@@ -23558,7 +23558,7 @@
     "artifact/find":"8",
     "area":"",
     "Material":"mammal?",
-    "Species":"\n",
+    "Species":" ",
     "Size Estimation":"",
     "element":"metapodial",
     "Vertebral Section":"",
