@@ -13,7 +13,8 @@
 * [physical landscape](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-landscape)
 * [physical processes](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-processes)
 
-###  Scope note: The dataarc community investigates long-term human-environment dynamics. "The changing landscape" is the overarching high-level concept which encompasses the project's research domain. 
+###  Scope note: 
+The dataarc community investigates long-term human-environment dynamics. "The changing landscape" is the overarching high-level concept which encompasses the project's research domain. 
 
 ### Examples: 
 
