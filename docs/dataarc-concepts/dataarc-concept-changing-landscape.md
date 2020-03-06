@@ -2,16 +2,7 @@
 ## The Changing Landscape
 
 
-###  Subclass of: none
-###  Superclass of:
-* [activities](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-activities) 
-* [actors](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-actors)
-* [community places](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-community-places)
-* [events](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-events)
-* [ideas](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-ideas)
-* [imaginary landscape](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-imaginary-landscape)
-* [physical landscape](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-landscape)
-* [physical processes](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-processes)
+
 
 ###  Scope note: 
 The dataarc community investigates long-term human-environment dynamics. "The changing landscape" is the overarching high-level concept which encompasses the project's research domain. 
@@ -24,13 +15,11 @@ The dataarc community investigates long-term human-environment dynamics. "The ch
 
 * The establishment of coastal fishing posts in the Hebrides and Orkneys in late pre-history.
 
-### Properties:
+### References to discussions of changing landscapes:
 
-* [ P67 Refers to (is referred to by)](http://www.cidoc-crm.org/Property/p67-refers-to/version-6.2.1)
- [physical landscape] (https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-physical-landscape)
- 
-* [P67 Refers to (is referred to by)](http://www.cidoc-crm.org/Property/p67-refers-to/version-6.2.1)
- [time](https://ropitz.github.io/experiments/dataarc-concepts/dataarc-concept-time)
+* McGovern, T. H., Vésteinsson, O., Friđriksson, A., Church, M., Lawson, I., Simpson, I. A., ... & Edwards, K. J. (2007). Landscapes of settlement in northern Iceland: Historical ecology of human impact and climate fluctuation on the millennial scale. American Anthropologist, 109(1), 27-51.
+
+* Hambrecht, G., Anderung, C., Brewington, S., Dugmore, A., Edvardsson, R., Feeley, F., ... & Ólafsdóttir, G. Á. (2018). Archaeological sites as distributed long-term observing networks of the past (DONOP). Quaternary International.
 
 ### CIDOC CRM mappings: 
 
@@ -38,9 +27,3 @@ The dataarc community investigates long-term human-environment dynamics. "The ch
 * [E92](http://www.cidoc-crm.org/Entity/E92-Spacetime-Volume/Version-6.2.1)
 * [E28](http://www.cidoc-crm.org/Entity/E28-Conceptual-Object/Version-6.2.1)
 
-
-### Inherits references:
-
-* [P67](http://www.cidoc-crm.org/Property/p129-is-about/version-6.2.1) refers to (is referred to by) : [E1 CRM Entity](http://www.cidoc-crm.org/entity/e1-crm-entity/version-6.2.1)
-
-* [P129](http://www.cidoc-crm.org/Property/p129-is-about/version-6.2.1) is about (is subject of) : [E1 CRM Entity](http://www.cidoc-crm.org/entity/e1-crm-entity/version-6.2.1)
