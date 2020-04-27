@@ -15,7 +15,7 @@ Iceland currently has 32 active volcanic centres and there have been approximate
 * The 1783 Laki eruption produced approximately 15 cubic kilometres of lava which directly affected SE Iceland, as well as large quantities of sulfur dioxide and fluorine. The resultant Haze Famine in Iceland killed a quarter of the populations (9300 people), with about 23,000 excess deaths recorded in England (July to September 1783).
 
 
-### References to Jokulhlaups:
+### References to Volcanic Activity:
 
 * Dugmore, A.J., Church, M.J., Mairs, K.A., McGovern, T.H., Perdikaris, S. and Vesteinsson, O. (2007) Abandoned farms, volcanic impacts, and woodland management: Revisiting pjorsardalur, the 'Pompeii of Iceland'. Arctic Anthropology  44, 1-11.
 * Streeter, R.T. and Dugmore, A.J. (2013) Reconstructing late-Holocene environmental change in Iceland using high-resolution tephrochronology. Holocene  23, 197-207.
