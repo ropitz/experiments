@@ -2,21 +2,21 @@
 ## Butchery
 
 ###  Scope note: 
-"Butchery" denotes the processing of animal products. Butchery practices are often selective in the population of animals targeted. Butchery practices may respond to and reflect social, economic or environmental factors. Butchery is not restricted to domestic animal populations. Skeletal (zooarchaeological) elements are a key source of evidence for butchery in the archaeological record.  
+"Butchery" denotes the processing of animal products for human consumption. For most large mammals, initial butchery involves dismembering the carcass for transport or further on- site processing for storage or immediate consumption, often using heavy cleaving blows or in modern times saw cuts.  This phase is followed by further division into portions for cooking, craft production, or discard that leave additional cut marks.  Cooking and consumption also involve further fragmentation and accumulation of cut marks and marrow splitting. Different cultural food ways and strategies for preservation (drying, salting, smoking) can be tracked through butchery pattern investigation. Zooarchaeologists trace butchery patterns through tracking presence/absence of skeletal elements, cut marks, and fragmentation patterns.  
 
 ### Examples: 
 
-* The intentional removal of marrow from animal bones during the processing of the carcass. 
-
-* The separation of fish heads from spines during processing.
-
-* The removal of walrun hide through cutting or scraping. 
+* The intentional removal of marrow from animal bones during cooking and consumption by diners by splitting, smashing, or perforation of the long bones.
+* The separation of fish heads from vertebra at a fishing station for producing a dried product for later consumption and trade leading to a disproportionate concentration of fish head elements at the landing site and a corresponding disproportionate concentration of vertebra at a consumption site.
+* Dividing a caribou carcass for transport, often discarding low meat value bone elements at the kill site.
 
 ### References to discussions of Butchery: 
 
-* Pálsdóttir, A. H., & Skarphéðinsson, I. (2019). The Animal Bones from Litlibær, Nes, Iceland. Rit LbhÍ nr. 107. http://www.lbhi.is/sites/lbhi.is/files/gogn/vidhengi/rit_lbhi_nr_107.pdf
+* Amundsen, Colin, Sophia Perdikaris ,  Thomas H. McGovern , Yekaterina Krivogorskaya , Matthew Brown , Konrad Smiarowski,  Shaye Storm, Salena Modugno, Malgorzata Frik, Monica Koczela  ‘Fishing Booths and Fishing Strategies in Medieval Iceland :  an Archaeofauna from the of Akurvík, North-West Iceland’, (2005) Environmental Archaeology 10,2 : 141-198.
 
-* Smiarowski, K., Harrison, R., Brewington, S., Hicks, M., Feeley, F. J., Dupont-Hébert, C., ... & McGovern, T. H. (2017). Zooarchaeology of the Scandinavian settlements in Iceland and Greenland. In The Oxford Handbook of Zooarchaeology.
+* RL Lyman 1985 Bone frequencies: differential transport, in situ destruction, and the MGUI
+ Journal of Archaeological Science, 2 Issue 3:221-236 
+
 
 ### CIDOC CRM mappings: 
 
