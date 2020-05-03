@@ -13,7 +13,7 @@
 * Viking Age hunting of Walrus was motivated by a market for walrus-tusk ivory and walrus-hide rope and may have been a major motivation for initial settlement in both Iceland and Greenland.  Medieval Greenlanders may have serially depleted walrus populations through an expanded long- range hunt.
 
 
-### References to discussions of shearing:
+### References to discussions of hunting:
 
 * Barrett, J. H., Boessenkool, S., Kneale, C. J., O’Connell, T. C., & Star, B. (2020). Ecological globalisation, serial depletion and the medieval trade of walrus rostra. Quaternary Science Reviews, 229, 106122.
 
