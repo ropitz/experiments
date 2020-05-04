@@ -18,3 +18,7 @@
 * Dugmore, A.J., Newton, A.J., Smith, K.T. and Mairs, K.A. (2013)  Tephrochronology and the late Holocene volcanic and flood history of Eyjafjallajökull, Iceland. Journal of Quaternary Science 28, 237-247.
 * Dugmore A.J., Newton A.J., Larsen G. and Cook G.T. (2000)  Tephrochronology, environmental change and the Norse settlement of Iceland.  Environmental Archaeology. 5, 21-34.
 * Dunning, S.A., Large, A.R.G., Russell, A.J., Roberts, M.J., Duller, R., Woodward, J.,  Mériaux, A-S., Tweed, F.S. and Lim, M. (2013) The role of multiple glacier outburst floods in proglacial landscape evolution:  The 2010 Eyjafjallajökull eruption, Iceland. Geology 41(10): 1123–1126.
+
+### CIDOC CRM mappings: 
+
+* [E5](http://www.cidoc-crm.org/Entity/e5-event/version-6.2.1)

@@ -17,3 +17,7 @@ Erosion is the removal and transport of soil (or rock) from one locaiton to anot
 * Arnalds, O. (2000) The Icelandic ‘rofabard’ soil erosion features. Earth Sur- face Processes and Landforms, 25(1), 17–28.
 
 * Streeter RT and Cutler N (2020) Assessing spatial patterns of soil erosion in a high latitude rangeland. Land Degradation and Development. Early View
+
+### CIDOC CRM mappings:
+
+* [S15](http://www.ics.forth.gr/isl/CRMsci/S15_Observable_Entity)

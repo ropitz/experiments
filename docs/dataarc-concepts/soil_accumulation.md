@@ -20,3 +20,7 @@ Variations in the rate of soil accumulation in Iceland are used as proxy for cal
 * Dugmore, A.J., Gísladóttir, G., Simpson, I.A. and Newton, A.J. (2009) Conceptual models of 1,200 years of soil erosion reconstructed using tephrochronology. Journal of the North Atlantic  2, 1-18.
 
 * Streeter R.T. and Dugmore A.J. (2013) Reconstructing late-Holocene environmental change in Iceland using high-resolution tephrochronology. Holocene 23, 197-207. 
+
+### CIDOC CRM mappings: 
+
+* [S15](http://www.ics.forth.gr/isl/CRMsci/S15_Observable_Entity)
