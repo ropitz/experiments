@@ -18,3 +18,7 @@
 * Lowe D.J. (2011) Tephrochronology and its application: A review. Quaternary Geochronology 6, 107-153.
 * Schmid, M.M.E., Dugmore, A.J., Vésteinsson, O. and Newton, A.J. (2017) Tephra isochrons and chronologies of colonisation. Quaternary Geochronology 48, 64-71.
 * Thorarinsson, S. (1944) Tefrokronoliska studier pa Island. (Tephrochronological studies in Iceland). Geografiska Annaler  26, 1-217.
+
+### CIDOC CRM mappings: 
+
+* [E28](http://www.cidoc-crm.org/entity/e28-conceptual-object/version-6.2)

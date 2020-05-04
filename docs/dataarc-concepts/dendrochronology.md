@@ -11,3 +11,8 @@ Dendrochronology denotes the dating of tree-growth rings, based on matching the 
 ### References
 
 * Lowe, J and Walker, MJC (2014) Reconstructing Quaternary Environments (3rd Edition). Routledge,
+
+
+### CIDOC CRM mappings: 
+
+* [E28](http://www.cidoc-crm.org/entity/e28-conceptual-object/version-6.2)

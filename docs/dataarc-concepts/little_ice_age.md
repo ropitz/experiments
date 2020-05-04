@@ -20,3 +20,7 @@ The term 'Little Ice Age' denotes a period of climatic cooling and increased cli
 
 * Ogilvie, AEJ., and Jónsson, T. (2001) Little Ice Age’ Research: A Perspective from Iceland. Climatic Change 48 : 9–52.
 
+
+### CIDOC CRM mappings: 
+
+* [E28](http://www.cidoc-crm.org/entity/e28-conceptual-object/version-6.2)
