@@ -18,7 +18,7 @@
 * Szabo, Vicki. “Northern Seas, Marine Monsters, and Perceptions of the Premodern North Atlantic in the Longue Durée.” In Visions of North in Premodern Europe, 145–182, 2018.
 
 
-*Hambrecht, George, and Kevin S. Gibbons. “Whale Bone as Fuel at an Inland Farm in Early Modern Iceland.” Arctic Anthropology 55, no. 1 (2018): 63–72.
+* *Hambrecht, George, and Kevin S. Gibbons. “Whale Bone as Fuel at an Inland Farm in Early Modern Iceland.” Arctic Anthropology 55, no. 1 (2018): 63–72.
 
 
 ### CIDOC CRM mappings: 
