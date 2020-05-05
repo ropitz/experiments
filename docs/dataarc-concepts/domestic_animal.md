@@ -7,11 +7,11 @@ This was a process whose earliest manifestation is seen in the domestication of 
 
 ###  Examples:
 
-* Cattle (Bos Taurus)
+* Cattle (Bos Taurus) in the European North Atlantic context were generally a high status animal, meaning they were very valuable. They were primarily raised for milk production though they were at times raised soley for meet production, such as seen at the 17th and 18th century levels of the archaeological site of Skalholt.
 
-* Sheep (Ovis aries)
+* Sheep (Ovis aries) in the European North Atlantic context were often the domestic animal present in the largest numbers at farms. They were primarily raised for milk and wool, while they were eaten for meat when needed, or for culling the young and processing the old. 
 
-* Horses (Equus caballus)
+* Horses (Equus caballus) in the European North Atlantic context were present in smaller numbers in the archaeological record but were of obvious importance throughout the pre-modern period for transportation. Evidence of their cultural importance in pre-christian times can be found in the fact that they are sometimes found buried with, presumebaly, their human owners (sometimes with a dog as well). 
 
 ###  References:
 
