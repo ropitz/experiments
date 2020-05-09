@@ -7,7 +7,7 @@
 ### Examples: 
 
 * Land degradation tied to grazing in shieling areas in Iceland.
-* The importance of imported livestock in early survival in North Atlantic.
+* The importance of imported livestock in early survival in the North Atlantic.
 * 
 
 ### References to discussions of Livestock:
