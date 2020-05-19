@@ -2,7 +2,7 @@
 ### Meetings 
 
 ###  Scope note: 
-"Meetings" 
+"Meetings" are encounters between entities, human or non-human, where meaningful exchanges of tangible or non-tangible assets take place. The entities involved in a meeting are co-present in a place.  
 
 ### Examples: 
 
