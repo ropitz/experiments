@@ -1,15 +1,14 @@
-## Church farm
+## Tithe
 
-### Scope note:
-A farm that has a church. Medieval Icelandic society was structured on the farm as a basic taxable unit, and therefore every church was technically part of a farm.
+###  Scope note:
+
+A tax levied by the church on farms in Iceland. Revenue from the tithe was divided into four parts among the bishop, the local priest, the parish church and the poor.
 
 ### Examples:
 
-* Every church in Medieval Iceland, even the bishop church.
+* A church tithe.
 
 ### References to discussions of CONCEPT:
-
-* Jakobsson, S. (2010). Heaven is a Place on Earth: Church and Sacred Space in Thirteenth-Century Iceland. Scandinavian Studies, 82(1), 1-20.
 
 * Sigurdson, E. (2016). The Church in Fourteenth-Century Iceland: The Formation of an Elite Clerical Identity. Brill.
 

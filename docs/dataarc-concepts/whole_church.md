@@ -1,14 +1,14 @@
-## Ecclesiastical power
+## Whole church
+
 
 ###  Scope note:
 
-A measure of the agency that an ecclesiastical institution has over other entities.
+A church that holds services amounting to a full liturgical calendar.
+
 
 ### Examples:
 
-* The ability of a parish church to collect tithes from its parishioners.
-
-* The ability of the Papal see to influence contemporary moral discourse.
+Every Icelandic parish church is a whole church.
 
 ### References to discussions of CONCEPT:
 

@@ -1,14 +1,12 @@
-## Ecclesiastical power
+## Half church
 
 ###  Scope note:
 
-A measure of the agency that an ecclesiastical institution has over other entities.
+A church that holds services amounting to half the liturgical calendar. A priest could be assigned to such a church in addition to his or her main parish.
 
 ### Examples:
 
-* The ability of a parish church to collect tithes from its parishioners.
-
-* The ability of the Papal see to influence contemporary moral discourse.
+* Half churches were common on pre-modern Icelandic farms.
 
 ### References to discussions of CONCEPT:
 
@@ -18,6 +16,7 @@ A measure of the agency that an ecclesiastical institution has over other entiti
 
 * Vésteinsson, O. (1996). The Christianisation of Iceland: priests, power and social change 1000-1300 (Doctoral dissertation, University of London).
 
-### CIDOC CRM mappings: 
+
+### CIDOC CRM mappings:
 
 * [E28](http://www.cidoc-crm.org/entity/e28-conceptual-object/version-6.2)

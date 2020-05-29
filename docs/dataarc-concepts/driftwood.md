@@ -1,12 +1,12 @@
 ## Driftwood
 
-###  Scope note: 
+###  Scope note:
 "Driftwood" refers to wood that has washed ashore from a water body. Most driftwood found in Iceland originates from Norway or Russia.
 
-### Examples: 
+### Examples:
 * The use of driftwood as fuel in coastal settlements.
 
-* Driftwood as a building material. 
+* Driftwood as a building material.
 
 * Driftwood rights in ecclesiastical registers
 
@@ -19,10 +19,6 @@
 * Mooney, D. E. (2016). A ‘North Atlantic island signature’of timber exploitation: Evidence from wooden artefact assemblages from Viking Age and Medieval Iceland. Journal of Archaeological Science: Reports, 7, 280-289.
 
 
-### CIDOC CRM mappings: 
-
-
-### CIDOC CRM mappings: 
+### CIDOC CRM mappings:
 
 * [E18](http://www.cidoc-crm.org/Entity/e18-physical-thing/version-6.2.2)
-
