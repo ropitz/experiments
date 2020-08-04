@@ -36859,11 +36859,11 @@
           "site_name": "Undir Sandmúla",
           "sample_name": "surf",
           "sample_group_id": 1491,
-          "dating_type": null,
+          "dating_type": "Relative dates",
           "start": null,
           "end": null,
-          "age_name": null,
-          "age_abbreviation": null
+          "age_name": "Area 3 Surface",
+          "age_abbreviation": "SDM_3_Surf"
         },
         "indicators": {
           "domestic": 1,
@@ -36899,11 +36899,11 @@
           "site_name": "Undir Sandmúla",
           "sample_name": "surf",
           "sample_group_id": 1492,
-          "dating_type": null,
+          "dating_type": "Relative dates",
           "start": null,
           "end": null,
-          "age_name": null,
-          "age_abbreviation": null
+          "age_name": "Area 4 Surface",
+          "age_abbreviation": "SDM_4_Surf"
         },
         "indicators": {
           "domestic": 4,
@@ -36939,11 +36939,11 @@
           "site_name": "Undir Sandmúla",
           "sample_name": "surf",
           "sample_group_id": 1493,
-          "dating_type": null,
+          "dating_type": "Relative dates",
           "start": null,
           "end": null,
-          "age_name": null,
-          "age_abbreviation": null
+          "age_name": "Area 5 Surface",
+          "age_abbreviation": "SDM_5_Surf"
         },
         "indicators": {
           "domestic": 21,
@@ -36979,11 +36979,11 @@
           "site_name": "Undir Sandmúla",
           "sample_name": "trench fill",
           "sample_group_id": 1493,
-          "dating_type": null,
+          "dating_type": "Relative dates",
           "start": null,
           "end": null,
-          "age_name": null,
-          "age_abbreviation": null
+          "age_name": "Area 5 Fill",
+          "age_abbreviation": "SDM_5_Fill"
         },
         "indicators": {
           "domestic": 17,
@@ -37019,11 +37019,11 @@
           "site_name": "Undir Sandmúla",
           "sample_name": "surf",
           "sample_group_id": 1494,
-          "dating_type": null,
+          "dating_type": "Relative dates",
           "start": null,
           "end": null,
-          "age_name": null,
-          "age_abbreviation": null
+          "age_name": "Eastern Area Surface",
+          "age_abbreviation": "SDM_East_Surf"
         },
         "indicators": {
           "domestic": 1,
@@ -37059,11 +37059,11 @@
           "site_name": "Undir Sandmúla",
           "sample_name": "002",
           "sample_group_id": 1495,
-          "dating_type": null,
-          "start": null,
-          "end": null,
-          "age_name": null,
-          "age_abbreviation": null
+          "dating_type": "Relative dates",
+          "start": 1080,
+          "end": 950,
+          "age_name": "002",
+          "age_abbreviation": "SDM_002"
         },
         "indicators": {
           "domestic": 247,
@@ -37099,16 +37099,6576 @@
           "site_name": "Undir Sandmúla",
           "sample_name": "surf",
           "sample_group_id": 1495,
-          "dating_type": null,
+          "dating_type": "Relative dates",
           "start": null,
           "end": null,
-          "age_name": null,
-          "age_abbreviation": null
+          "age_name": "Midden 5 Surf",
+          "age_abbreviation": "SDM_Mid5_Surf"
         },
         "indicators": {
           "domestic": 292,
           "wild": 424,
           "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8665,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "02",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase II",
+          "age_abbreviation": "BNF_Phase_II"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 13,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8666,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "22",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 900,
+          "age_name": "Phase IX",
+          "age_abbreviation": "BNF_Phase_IX"
+        },
+        "indicators": {
+          "domestic": 14,
+          "wild": 45,
+          "Marine Mammal": 23,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8667,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "44",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 650,
+          "end": 450,
+          "age_name": "Phase III",
+          "age_abbreviation": "BNF_Phase_III"
+        },
+        "indicators": {
+          "domestic": 8,
+          "wild": 98,
+          "Marine Mammal": 60,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8668,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "45",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 650,
+          "end": 450,
+          "age_name": "Phase III",
+          "age_abbreviation": "BNF_Phase_III"
+        },
+        "indicators": {
+          "domestic": 44,
+          "wild": 268,
+          "Marine Mammal": 200,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8669,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "46",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 5,
+          "wild": 23,
+          "Marine Mammal": 19,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8670,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "48",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 13,
+          "wild": 61,
+          "Marine Mammal": 33,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8671,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "50",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 30,
+          "wild": 143,
+          "Marine Mammal": 67,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8672,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "51",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8673,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "52",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8674,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "53",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 54,
+          "wild": 260,
+          "Marine Mammal": 136,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8675,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "54",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 1,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8676,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "55",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 4,
+          "Marine Mammal": 4,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8677,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "56",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 2,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8678,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "58",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 7,
+          "wild": 31,
+          "Marine Mammal": 20,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8679,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "59",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 25,
+          "wild": 166,
+          "Marine Mammal": 123,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8680,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "60",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 7,
+          "wild": 16,
+          "Marine Mammal": 14,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8681,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "61",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 16,
+          "wild": 126,
+          "Marine Mammal": 107,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8682,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "63",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 76,
+          "wild": 439,
+          "Marine Mammal": 232,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8683,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "66",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 3,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8684,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "67",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 11,
+          "wild": 31,
+          "Marine Mammal": 30,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8685,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "69",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Unknown",
+          "age_abbreviation": "BNF_Unknown"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 1,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8686,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "70",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 750,
+          "end": 700,
+          "age_name": "Phase V",
+          "age_abbreviation": "BNF_Phase_V"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 3,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8687,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "72",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 4,
+          "Marine Mammal": 4,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8688,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "73",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VIII",
+          "age_abbreviation": "BNF_Phase_VIII"
+        },
+        "indicators": {
+          "domestic": 8,
+          "wild": 52,
+          "Marine Mammal": 21,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8689,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8689,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "77",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 750,
+          "end": 700,
+          "age_name": "Phase V",
+          "age_abbreviation": "BNF_Phase_V"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 13,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8690,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "79",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VIII",
+          "age_abbreviation": "BNF_Phase_VIII"
+        },
+        "indicators": {
+          "domestic": 5,
+          "wild": 19,
+          "Marine Mammal": 9,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8691,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "81",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 750,
+          "end": 700,
+          "age_name": "Phase V",
+          "age_abbreviation": "BNF_Phase_V"
+        },
+        "indicators": {
+          "domestic": 159,
+          "wild": 663,
+          "Marine Mammal": 412,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8692,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "83",
+          "sample_group_id": 1496,
+          "dating_type": "Relative dates",
+          "start": 750,
+          "end": 700,
+          "age_name": "Phase V",
+          "age_abbreviation": "BNF_Phase_V"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 16,
+          "Marine Mammal": 9,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8693,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "14",
+          "sample_group_id": 1497,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 900,
+          "age_name": "Phase IX",
+          "age_abbreviation": "BNF_Phase_IX"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 3,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8694,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "18",
+          "sample_group_id": 1497,
+          "dating_type": "Relative dates",
+          "start": 650,
+          "end": 450,
+          "age_name": "Phase III",
+          "age_abbreviation": "BNF_Phase_III"
+        },
+        "indicators": {
+          "domestic": 14,
+          "wild": 21,
+          "Marine Mammal": 9,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8695,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "2",
+          "sample_group_id": 1497,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase II",
+          "age_abbreviation": "BNF_Phase_II"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 1,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8696,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "26",
+          "sample_group_id": 1497,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 900,
+          "age_name": "Phase IX",
+          "age_abbreviation": "BNF_Phase_IX"
+        },
+        "indicators": {
+          "domestic": 4,
+          "wild": 1,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8697,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "27",
+          "sample_group_id": 1497,
+          "dating_type": "Relative dates",
+          "start": 650,
+          "end": 450,
+          "age_name": "Phase III",
+          "age_abbreviation": "BNF_Phase_III"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 4,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8698,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "7",
+          "sample_group_id": 1497,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 10,
+          "Marine Mammal": 4,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8699,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "9",
+          "sample_group_id": 1497,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VI",
+          "age_abbreviation": "BNF_Phase_VI"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 5,
+          "Marine Mammal": 2,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8700,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "11",
+          "sample_group_id": 1498,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VI",
+          "age_abbreviation": "BNF_Phase_VI"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 3,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8701,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "13",
+          "sample_group_id": 1498,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VI",
+          "age_abbreviation": "BNF_Phase_VI"
+        },
+        "indicators": {
+          "domestic": 16,
+          "wild": 19,
+          "Marine Mammal": 8,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8702,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "16",
+          "sample_group_id": 1498,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VII",
+          "age_abbreviation": "BNF_Phase_VII"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 8,
+          "Marine Mammal": 2,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8703,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "17",
+          "sample_group_id": 1498,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VII",
+          "age_abbreviation": "BNF_Phase_VII"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 3,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8704,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "8",
+          "sample_group_id": 1498,
+          "dating_type": "Relative dates",
+          "start": 750,
+          "end": 700,
+          "age_name": "Phase V",
+          "age_abbreviation": "BNF_Phase_V"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 5,
+          "Marine Mammal": 5,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8705,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "15",
+          "sample_group_id": 1499,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VI",
+          "age_abbreviation": "BNF_Phase_VI"
+        },
+        "indicators": {
+          "domestic": 42,
+          "wild": 148,
+          "Marine Mammal": 78,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8706,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "21",
+          "sample_group_id": 1499,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VI",
+          "age_abbreviation": "BNF_Phase_VI"
+        },
+        "indicators": {
+          "domestic": 8,
+          "wild": 18,
+          "Marine Mammal": 4,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8707,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "24",
+          "sample_group_id": 1499,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VII",
+          "age_abbreviation": "BNF_Phase_VII"
+        },
+        "indicators": {
+          "domestic": 15,
+          "wild": 19,
+          "Marine Mammal": 7,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8708,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "30",
+          "sample_group_id": 1499,
+          "dating_type": "Relative dates",
+          "start": 900,
+          "end": 750,
+          "age_name": "Phase VII",
+          "age_abbreviation": "BNF_Phase_VII"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8709,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "5",
+          "sample_group_id": 1499,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase I",
+          "age_abbreviation": "BNF_Phase_I"
+        },
+        "indicators": {
+          "domestic": 12,
+          "wild": 57,
+          "Marine Mammal": 44,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.50201944,
+          61.15076111
+        ]
+      },
+      "properties": {
+        "id": 8710,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1288,
+          "site_name": "Brattahlið (E29N)",
+          "sample_name": "6",
+          "sample_group_id": 1499,
+          "dating_type": "Relative dates",
+          "start": 700,
+          "end": 650,
+          "age_name": "Phase IV",
+          "age_abbreviation": "BNF_Phase_IV"
+        },
+        "indicators": {
+          "domestic": 17,
+          "wild": 85,
+          "Marine Mammal": 60,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8711,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "101/102",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 13,
+          "wild": 51,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8712,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "102",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 7,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8713,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "103",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 18,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8714,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "104",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 7,
+          "wild": 52,
+          "Marine Mammal": 0,
+          "Marine Fish": 5,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8715,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "105",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 35,
+          "wild": 349,
+          "Marine Mammal": 0,
+          "Marine Fish": 6,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8716,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "106",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 20,
+          "wild": 663,
+          "Marine Mammal": 0,
+          "Marine Fish": 17,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8717,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "107",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 154,
+          "wild": 4898,
+          "Marine Mammal": 4,
+          "Marine Fish": 404,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8718,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "108",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 19,
+          "wild": 115,
+          "Marine Mammal": 0,
+          "Marine Fish": 8,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8719,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "109",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 23,
+          "wild": 271,
+          "Marine Mammal": 1,
+          "Marine Fish": 19,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8720,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "110",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 29,
+          "Marine Mammal": 0,
+          "Marine Fish": 5,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8721,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "111",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 93,
+          "wild": 1764,
+          "Marine Mammal": 4,
+          "Marine Fish": 180,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8722,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "113",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 41,
+          "Marine Mammal": 0,
+          "Marine Fish": 1,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8723,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "114",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 5,
+          "wild": 66,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8724,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "115",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 4,
+          "wild": 162,
+          "Marine Mammal": 2,
+          "Marine Fish": 17,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8725,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "116",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 4,
+          "wild": 56,
+          "Marine Mammal": 1,
+          "Marine Fish": 5,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8726,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "117",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 11,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8727,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "119",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 17,
+          "Marine Mammal": 0,
+          "Marine Fish": 2,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8728,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "123",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 28,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8729,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "124",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 42,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8730,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "125",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 4,
+          "wild": 54,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8731,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "14",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 9,
+          "Marine Mammal": 0,
+          "Marine Fish": 1,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8732,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "15",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 17,
+          "wild": 156,
+          "Marine Mammal": 0,
+          "Marine Fish": 34,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8733,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "16",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 19,
+          "wild": 283,
+          "Marine Mammal": 0,
+          "Marine Fish": 72,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8734,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "160",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 77,
+          "wild": 2468,
+          "Marine Mammal": 2,
+          "Marine Fish": 2,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8735,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "17",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 28,
+          "wild": 330,
+          "Marine Mammal": 1,
+          "Marine Fish": 87,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8736,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "18",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 17,
+          "wild": 185,
+          "Marine Mammal": 0,
+          "Marine Fish": 35,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8737,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "181",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 50,
+          "wild": 1033,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8738,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "19",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 15,
+          "wild": 226,
+          "Marine Mammal": 4,
+          "Marine Fish": 49,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8739,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "19-24",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 22,
+          "Marine Mammal": 0,
+          "Marine Fish": 3,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8740,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "20",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 21,
+          "wild": 111,
+          "Marine Mammal": 0,
+          "Marine Fish": 15,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8741,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "21",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 7,
+          "Marine Mammal": 0,
+          "Marine Fish": 1,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8742,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "217",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 45,
+          "wild": 2008,
+          "Marine Mammal": 1,
+          "Marine Fish": 498,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8743,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "22",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 16,
+          "wild": 325,
+          "Marine Mammal": 0,
+          "Marine Fish": 88,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8744,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "221",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 33,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8745,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "226",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 4,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8746,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "229",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1200,
+          "end": 1000,
+          "age_name": "UJF 0",
+          "age_abbreviation": "UJF_0"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 9,
+          "Marine Mammal": 0,
+          "Marine Fish": 1,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8747,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "23",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 46,
+          "wild": 2142,
+          "Marine Mammal": 2,
+          "Marine Fish": 764,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8748,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "24",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 13,
+          "wild": 631,
+          "Marine Mammal": 0,
+          "Marine Fish": 27,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8749,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "25",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8750,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "28",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8751,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "297",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 37,
+          "wild": 3145,
+          "Marine Mammal": 0,
+          "Marine Fish": 585,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8752,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "3",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 54,
+          "Marine Mammal": 0,
+          "Marine Fish": 14,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8753,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "307",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 11,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8754,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "337",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 257,
+          "wild": 6181,
+          "Marine Mammal": 4,
+          "Marine Fish": 814,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8755,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "338",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 103,
+          "wild": 1868,
+          "Marine Mammal": 0,
+          "Marine Fish": 161,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8756,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "339",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 173,
+          "wild": 2180,
+          "Marine Mammal": 87,
+          "Marine Fish": 314,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8757,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "344",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 8,
+          "wild": 87,
+          "Marine Mammal": 0,
+          "Marine Fish": 7,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8758,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "345",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 13,
+          "wild": 565,
+          "Marine Mammal": 0,
+          "Marine Fish": 92,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8759,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "347",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 6,
+          "wild": 619,
+          "Marine Mammal": 0,
+          "Marine Fish": 66,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8760,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "348",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1100,
+          "end": 800,
+          "age_name": "UJF 1",
+          "age_abbreviation": "UJF_1"
+        },
+        "indicators": {
+          "domestic": 49,
+          "wild": 3406,
+          "Marine Mammal": 2,
+          "Marine Fish": 429,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8761,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "353",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 940,
+          "end": 730,
+          "age_name": "UJF 2",
+          "age_abbreviation": "UJF_2"
+        },
+        "indicators": {
+          "domestic": 48,
+          "wild": 408,
+          "Marine Mammal": 0,
+          "Marine Fish": 16,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8762,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "370",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1200,
+          "end": 1000,
+          "age_name": "UJF 0",
+          "age_abbreviation": "UJF_0"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 62,
+          "Marine Mammal": 0,
+          "Marine Fish": 3,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8763,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "371",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1200,
+          "end": 1000,
+          "age_name": "UJF 0",
+          "age_abbreviation": "UJF_0"
+        },
+        "indicators": {
+          "domestic": 12,
+          "wild": 509,
+          "Marine Mammal": 4,
+          "Marine Fish": 76,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8764,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "372",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1200,
+          "end": 1000,
+          "age_name": "UJF 0",
+          "age_abbreviation": "UJF_0"
+        },
+        "indicators": {
+          "domestic": 7,
+          "wild": 190,
+          "Marine Mammal": 0,
+          "Marine Fish": 20,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8765,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "373",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1200,
+          "end": 1000,
+          "age_name": "UJF 0",
+          "age_abbreviation": "UJF_0"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 2,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8766,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "379",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 1200,
+          "end": 1000,
+          "age_name": "UJF 0",
+          "age_abbreviation": "UJF_0"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 21,
+          "Marine Mammal": 0,
+          "Marine Fish": 13,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8767,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "5",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 9,
+          "wild": 83,
+          "Marine Mammal": 0,
+          "Marine Fish": 23,
+          "Freshwater Fish": 1,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8768,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "6",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 192,
+          "wild": 1940,
+          "Marine Mammal": 6,
+          "Marine Fish": 413,
+          "Freshwater Fish": 2,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8769,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "7",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 11,
+          "wild": 119,
+          "Marine Mammal": 0,
+          "Marine Fish": 20,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8770,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "8",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 700,
+          "age_name": "UJF 3",
+          "age_abbreviation": "UJF_3"
+        },
+        "indicators": {
+          "domestic": 26,
+          "wild": 474,
+          "Marine Mammal": 0,
+          "Marine Fish": 111,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8771,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "Cleaning",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Cleaning",
+          "age_abbreviation": "UJF_CLEANING"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 15,
+          "Marine Mammal": 0,
+          "Marine Fish": 1,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.811369,
+          61.83436
+        ]
+      },
+      "properties": {
+        "id": 8772,
+        "country": "Faroe Islands",
+        "sampleData": {
+          "site_id": 1309,
+          "site_name": "Undir Junkarinsfløtti\r\nJunkarinsfløtti",
+          "sample_name": "Surface",
+          "sample_group_id": 1500,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Surface",
+          "age_abbreviation": "UJF_SURFACE"
+        },
+        "indicators": {
+          "domestic": 14,
+          "wild": 104,
+          "Marine Mammal": 0,
+          "Marine Fish": 1,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8773,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "12",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 36,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8774,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "16",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 1,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8775,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "22",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 5,
+          "wild": 2,
+          "Marine Mammal": 2,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8776,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "23",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 18,
+          "wild": 34,
+          "Marine Mammal": 22,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8777,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "24",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 1,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8778,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "26",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 5,
+          "wild": 4,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8779,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "28",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8780,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "32",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 3,
+          "wild": 16,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8781,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "41",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 9,
+          "wild": 16,
+          "Marine Mammal": 7,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8782,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "45",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8783,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "56",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8784,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "58",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 1,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8785,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "59",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 3,
+          "Marine Mammal": 1,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8786,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "6",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 6,
+          "Marine Mammal": 2,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8787,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "60",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 5,
+          "Marine Mammal": 4,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8788,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "64",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8789,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "66",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 8,
+          "wild": 8,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8790,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "67",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 9,
+          "wild": 57,
+          "Marine Mammal": 38,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8791,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "70",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 24,
+          "wild": 170,
+          "Marine Mammal": 83,
+          "Marine Fish": 1,
+          "Freshwater Fish": 3,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8792,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "74",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 8,
+          "wild": 24,
+          "Marine Mammal": 20,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8793,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "75",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 1,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8794,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "79",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 0,
+          "wild": 4,
+          "Marine Mammal": 2,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8795,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "83",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 9,
+          "wild": 23,
+          "Marine Mammal": 9,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8796,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "85",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 9,
+          "Marine Mammal": 4,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8797,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "88",
+          "sample_group_id": 1501,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E74_PH1"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 0,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8798,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "2",
+          "sample_group_id": 1502,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E74_PH2"
+        },
+        "indicators": {
+          "domestic": 4,
+          "wild": 40,
+          "Marine Mammal": 23,
+          "Marine Fish": 1,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8799,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "25",
+          "sample_group_id": 1502,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 7,
+          "wild": 6,
+          "Marine Mammal": 4,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8800,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "11",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 76,
+          "wild": 61,
+          "Marine Mammal": 46,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8801,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "13",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 95,
+          "wild": 48,
+          "Marine Mammal": 26,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8802,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "15",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 29,
+          "wild": 17,
+          "Marine Mammal": 2,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8803,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "17",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 81,
+          "wild": 132,
+          "Marine Mammal": 90,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8804,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "18",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 23,
+          "wild": 9,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8805,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "29",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 28,
+          "wild": 19,
+          "Marine Mammal": 13,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8806,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "36",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 24,
+          "wild": 28,
+          "Marine Mammal": 11,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8807,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "39",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 58,
+          "wild": 25,
+          "Marine Mammal": 13,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8808,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "40",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 100,
+          "wild": 68,
+          "Marine Mammal": 53,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8809,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "55",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 24,
+          "Marine Mammal": 3,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8810,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "61",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 33,
+          "wild": 25,
+          "Marine Mammal": 11,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8811,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "62",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 43,
+          "wild": 6,
+          "Marine Mammal": 5,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8812,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "71",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 110,
+          "wild": 33,
+          "Marine Mammal": 16,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8813,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "72",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 73,
+          "wild": 19,
+          "Marine Mammal": 11,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.231181,
+          60.767909
+        ]
+      },
+      "properties": {
+        "id": 8814,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1310,
+          "site_name": "Qorlortorsuaq",
+          "sample_name": "UNSTRAT",
+          "sample_group_id": 1503,
+          "dating_type": "Relative dates",
+          "start": null,
+          "end": null,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E74_PH3"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 6,
+          "Marine Mammal": 5,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8815,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "01",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1150,
+          "end": 1250,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E172_3"
+        },
+        "indicators": {
+          "domestic": 26,
+          "wild": 109,
+          "Marine Mammal": 80,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8816,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "02",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1150,
+          "end": 1250,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E172_3"
+        },
+        "indicators": {
+          "domestic": 21,
+          "wild": 108,
+          "Marine Mammal": 83,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8817,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "03",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1150,
+          "end": 1250,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E172_3"
+        },
+        "indicators": {
+          "domestic": 42,
+          "wild": 337,
+          "Marine Mammal": 170,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8818,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "04",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1150,
+          "end": 1250,
+          "age_name": "Phase 3",
+          "age_abbreviation": "E172_3"
+        },
+        "indicators": {
+          "domestic": 28,
+          "wild": 138,
+          "Marine Mammal": 72,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8819,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "05",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1050,
+          "end": 1150,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E172_2"
+        },
+        "indicators": {
+          "domestic": 26,
+          "wild": 202,
+          "Marine Mammal": 105,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8820,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "07",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1050,
+          "end": 1150,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E172_2"
+        },
+        "indicators": {
+          "domestic": 31,
+          "wild": 274,
+          "Marine Mammal": 182,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8821,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "09",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1050,
+          "end": 1150,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E172_2"
+        },
+        "indicators": {
+          "domestic": 37,
+          "wild": 298,
+          "Marine Mammal": 199,
+          "Marine Fish": 0,
+          "Freshwater Fish": 1,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8822,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "10",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 1050,
+          "end": 1150,
+          "age_name": "Phase 2",
+          "age_abbreviation": "E172_2"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 20,
+          "Marine Mammal": 13,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8823,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "11",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 1050,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E172_1"
+        },
+        "indicators": {
+          "domestic": 19,
+          "wild": 65,
+          "Marine Mammal": 46,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8824,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "12",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 1050,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E172_1"
+        },
+        "indicators": {
+          "domestic": 346,
+          "wild": 890,
+          "Marine Mammal": 416,
+          "Marine Fish": 0,
+          "Freshwater Fish": 7,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8825,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "13",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 1050,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E172_1"
+        },
+        "indicators": {
+          "domestic": 2,
+          "wild": 27,
+          "Marine Mammal": 10,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8826,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "14",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 1050,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E172_1"
+        },
+        "indicators": {
+          "domestic": 10,
+          "wild": 30,
+          "Marine Mammal": 16,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8827,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "15",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 1050,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E172_1"
+        },
+        "indicators": {
+          "domestic": 1,
+          "wild": 3,
+          "Marine Mammal": 0,
+          "Marine Fish": 0,
+          "Freshwater Fish": 0,
+          "terrestrial": 0,
+          "aquatic": 0,
+          "Sea Bird": 0,
+          "Non Migratory Terrestrial": 0,
+          "Fresh Water Migrant": 0,
+          "On floe ice": 0,
+          "On fast ice": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.5298,
+          60.80679
+        ]
+      },
+      "properties": {
+        "id": 8828,
+        "country": "Greenland",
+        "sampleData": {
+          "site_id": 1311,
+          "site_name": "Tatsip Ataa",
+          "sample_name": "16",
+          "sample_group_id": 1504,
+          "dating_type": "Relative dates",
+          "start": 950,
+          "end": 1050,
+          "age_name": "Phase 1",
+          "age_abbreviation": "E172_1"
+        },
+        "indicators": {
+          "domestic": 4,
+          "wild": 12,
+          "Marine Mammal": 7,
           "Marine Fish": 0,
           "Freshwater Fish": 0,
           "terrestrial": 0,
