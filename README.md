@@ -8,3 +8,5 @@ This repo contains:
 - static copies of the project's datasets, available as json files
 - a static copy of the project's concept map, available as a gml file
 - a static copy of the project's list of combinators, aka the mappings between queries on the datasets and the concept map. 
+
+These tools and how to use them are described in our [documentation](https://dataarc-demo.readthedocs.io/en/latest/).
